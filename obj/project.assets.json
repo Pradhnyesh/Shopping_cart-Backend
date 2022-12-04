@@ -8153,24 +8153,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dhore\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dhore\\source\\repos\\ShoppingCart_API\\ShoppingCart_API.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Source\\Repos\\Shopping_Cart_Web_Api\\ShoppingCart_API.csproj",
       "projectName": "ShoppingCart_API",
-      "projectPath": "C:\\Users\\dhore\\source\\repos\\ShoppingCart_API\\ShoppingCart_API.csproj",
-      "packagesPath": "C:\\Users\\dhore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dhore\\source\\repos\\ShoppingCart_API\\obj\\",
+      "projectPath": "C:\\Users\\DELL\\Source\\Repos\\Shopping_Cart_Web_Api\\ShoppingCart_API.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Source\\Repos\\Shopping_Cart_Web_Api\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\dhore\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8249,7 +8244,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
